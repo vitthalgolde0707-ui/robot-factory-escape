@@ -21,7 +21,10 @@ In this game, the player escapes from a robot factory while collecting batteries
 - Move: Arrow keys
 
 ## 📸 Screenshots
-(Add your game screenshots here)
+
+![Game](game.png)
+![Game](game1.png)
+![Game](game2.png)
 
 ## 👨‍💻 Developer
 Vitthal Golde
